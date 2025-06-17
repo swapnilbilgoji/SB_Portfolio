@@ -5,18 +5,18 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "Diamond Price Prediction",
+    year: "April2023",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    image: "../../public/images/Diamond.png",
+    link: "https://github.com/swapnilbilgoji/DiamondPricePrediction",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "Credit Card Fraud Detection",
+    year: "Jun2023",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
-    link: "#",
+    image: "../../public/images/Fraud.png",
+    link: "https://github.com/swapnilbilgoji/Credit-Card-Default-Payment-Prediction",
   },
   {
     name: "Tourzania",

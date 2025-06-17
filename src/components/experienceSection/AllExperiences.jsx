@@ -5,34 +5,25 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
+    job: "Python Developer",
+    company: "Maratha Mandal Engineering College",
+    date: "01/01/2025 - 03/30/2025",
     responsibilities: [
-      "Implementing reusable components.",
-      "Participating in large scale application.",
-      "Working on the performance of web applications.",
-      "Generating new ideas for better user experience.",
+      "Developed memory-efficient Python code for robotic experiments.",
+      "Enhanced code reusability and maintainability across projects.",
+      "Successfully deployed code into CoppeliaSim for robotic simulations.",
+      "Mentored 20+ students on writing scalable, efficient Python code.",
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
+    job: "Data Analyst",
+    company: "Archana Industries",
+    date: "03/01/2025 - Present",
     responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
-    ],
-  },
-  {
-    job: "Course Instructor",
-    company: "Sprints",
-    date: "2024 - Present",
-    responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Performed in-depth data analysis to track sales growth over the past 5 years.",
+      "Developed strategies and actionable insights based on data trends.",
+      "Identified new product categories to help expand paper bag sales.",
+      "Contributed to a 30% increase in sales within 3 months through data-driven initiatives.",
     ],
   },
 ];
