@@ -16,11 +16,11 @@ const skills = [
     icon: FaPython,
   },
   {
-    skill: "Machine Learning",
+    skill: "ML",
     icon: HiCog,
   },
   {
-    skill: "Deep Learning",
+    skill: "DL",
     icon: FaBrain,
   },
   {
