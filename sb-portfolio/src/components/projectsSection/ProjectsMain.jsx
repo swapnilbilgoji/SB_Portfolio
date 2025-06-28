@@ -22,14 +22,14 @@ const projects = [
     name: "Web Scrapping",
     year: "Jan2023",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "../../public/images/webscrapping.png",
     link: "https://github.com/swapnilbilgoji/Python_web_scrapping_aws",
   },
   {
     name: "Flower Classification",
     year: "May2024",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: "../../public/images/FlowerClassify.png",
     link: "https://github.com/swapnilbilgoji/Flower-Classification",
   },
 ];
