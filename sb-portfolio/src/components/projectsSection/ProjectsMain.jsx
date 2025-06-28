@@ -19,18 +19,18 @@ const projects = [
     link: "https://github.com/swapnilbilgoji/Credit-Card-Default-Payment-Prediction",
   },
   {
-    name: "Tourzania",
+    name: "Web Scrapping",
     year: "Jan2023",
     align: "right",
     image: "../../public/images/website-img-3.jpg",
-    link: "#",
+    link: "https://github.com/swapnilbilgoji/Python_web_scrapping_aws",
   },
   {
-    name: "Bank of Luck",
+    name: "Flower Classification",
     year: "May2024",
     align: "left",
     image: "../../public/images/website-img-4.jpg",
-    link: "#",
+    link: "https://github.com/swapnilbilgoji/Flower-Classification",
   },
 ];
 
